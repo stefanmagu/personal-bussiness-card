@@ -6,3 +6,6 @@ This business card project was created as a hands-on exercise to learn and pract
 
 ## Run the project
 Head over to the terminal and enter **start index.html**. You can also use Live Server extension.
+
+## Preview
+![image](https://github.com/user-attachments/assets/fbf4720e-13ea-46e0-ad79-75e9525f4812)
